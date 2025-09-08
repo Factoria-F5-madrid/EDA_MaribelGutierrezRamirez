@@ -25,13 +25,18 @@ El análisis se realizó en un **Jupyter Notebook** usando las siguientes biblio
 El proceso incluyó la limpieza de datos (manejo de valores nulos y formatos incorrectos) y un análisis descriptivo para resumir los hallazgos clave.
 
 ## Hallazgos y Conclusiones Clave
-* **Productos**: [Aquí, inserta tus conclusiones sobre los productos, por ejemplo: "El calzado para hombre fue la categoría más vendida."]
-* **Canales de Venta**: [Aquí, inserta tus conclusiones sobre los canales, por ejemplo: "Las ventas a través de outlets superaron a las ventas online."]
-* **Regiones**: [Aquí, inserta tus conclusiones sobre las regiones, por ejemplo: "Los estados de [nombre del estado] y [nombre del estado] generaron los mayores ingresos."]
+* **Canales de venta / Métodos de compra:** Los métodos de venta más rentables, en términos de ganancias operativas, son "Online" y "Outlet". El método "In-store" tiene el menor rendimiento.
+
+* **Diferencias entre productos/categorías:** Los productos "Men Street Footwear" y "Men Athletic Footwear" son los más rentables.
+
+* **Comparativa geográfica / por regiones:** La región "West" tiene el mayor volumen de ventas, seguida por las regiones "Northeast" y "Southeast".
+
+* **Evolución de la métrica clave en el tiempo:** Las ventas muestran un patrón estacional, con un pico significativo en el último trimestre del año, especialmente entre octubre y diciembre.
 
 ## Estructura del Repositorio
 * `adidas_sales.ipynb`: El cuaderno de Jupyter con el análisis completo.
 * `README.md`: Este archivo.
+* Analisis_Ventas_Adidas.pdf: Analisis más detallado. 
 
 ## Uso
 Si quieres ver el análisis completo, solo necesitas:
