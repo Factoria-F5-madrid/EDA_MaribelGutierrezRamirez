@@ -1,4 +1,5 @@
-![Portada de EDA](https://drive.google.com/uc?export=view&id=1IiPymR1gCbCJ41y_giEBU50JpMqe9qz0)
+![Portada EDA](https://drive.google.com/uc?id=1jIu1TL_3Xyz32Iw3huVxDz5_qQl4y1jC)
+
 ---
 # Análisis de Ventas de Adidas en EE. UU.
 
