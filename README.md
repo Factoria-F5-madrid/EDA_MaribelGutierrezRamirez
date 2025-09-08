@@ -10,6 +10,12 @@ El análisis se centró en los siguientes aspectos:
 * Rendimiento de los productos y las categorías más rentables.
 * Comparación de canales de venta (*online*, tienda física, *outlet*).
 
+### Datos utilizados
+Este análisis utiliza el conjunto de datos **Adidas Shoes Sales**, disponible en Kaggle:
+
+[Kaggle – Adidas Shoes Sales Dataset](https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales)
+
+
 ## Metodología y Herramientas
 El análisis se realizó en un **Jupyter Notebook** usando las siguientes bibliotecas de Python:
 
