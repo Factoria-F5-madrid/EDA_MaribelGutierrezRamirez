@@ -1,7 +1,6 @@
 ![Portada EDA](https://drive.google.com/uc?id=1jIu1TL_3Xyz32Iw3huVxDz5_qQl4y1jC)
 
 ---
-# Análisis de Ventas de Adidas en EE. UU.
 
 ## Resumen del Proyecto
 Este es un proyecto de **Análisis Exploratorio de Datos (EDA)** que utiliza un conjunto de datos de ventas de Adidas en EE. UU. El objetivo principal fue identificar patrones de compra, analizar el rendimiento de productos y canales de venta, y obtener *insights* para optimizar las estrategias de marketing.
