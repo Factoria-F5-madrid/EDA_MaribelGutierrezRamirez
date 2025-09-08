@@ -1,0 +1,13 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias
+node_modules/
+venv/
+
+# Archivos de compilación
+*.log
+*.pyc
+dist/
+build/
